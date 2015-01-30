@@ -13,6 +13,7 @@ public class TrueFalse {
         mTrueQuestion = trueQuestion;
     }
 
+    // Getter Setters
     public int getQuestion() {
         return mQuestion;
     }
